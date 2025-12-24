@@ -1,6 +1,6 @@
 # Selamat Datang di All About Me
 **Nama:** Rifki Fariz Farabi  
-[cite_start]**NIM:** 11422030 [cite: 1]
+**NIM:** 11422030 
 
 Berikut adalah bagian-bagian dari tugas UTS Komunikasi Interpersonal saya:
 
