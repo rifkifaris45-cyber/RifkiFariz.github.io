@@ -44,7 +44,6 @@ Lagu ini memiliki kedekatan emosional yang sangat kuat dengan saya karena lirikn
 
 **Video Musik:**
 [![Terbaik Bagimu](https://img.youtube.com/vi/M3MY4xV6MBw/0.jpg)](https://www.youtube.com/watch?v=M3MY4xV6MBw)
-*(Klik gambar di atas untuk memutar lagu)*
 
 ---
 
