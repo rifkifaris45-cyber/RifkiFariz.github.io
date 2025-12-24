@@ -1,4 +1,4 @@
-# UAS 3 - Landasan Pengetahuan & Konklusi Strategis
+# UAS 4 - Landasan Pengetahuan & Konklusi Strategis
 
 ### Pengetahuan: Arsitektur Manajemen Rantai Pasok dan Analisis Prediktif
 
