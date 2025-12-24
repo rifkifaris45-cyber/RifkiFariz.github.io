@@ -9,9 +9,9 @@ Halaman ini berisi tinjauan akhir, penilaian mandiri (*Self-Assessment*), serta 
 | Tugas | Parameter Penilaian | Skor (1-5) | Catatan |
 | :--- | :--- | :---: | :--- |
 | **UAS-1: Masterpiece Concept** | Clarity, Logic, Validity, Usefulness | **5.0** | Konsep "Jaringan Saraf" logistik dijelaskan dengan logika sistem yang sangat kuat. |
-| **UAS-2: Opini Strategis** | Compelling, Informatif, Persuasif, Engaging | **4.75** | Argumen mengenai pergeseran fokus ke distribusi sangat persuasif dan didukung data. |
+| **UAS-2: Opini Strategis** | Compelling, Informatif, Persuasif, Engaging | **5.0** | Argumen mengenai pergeseran fokus ke distribusi sangat persuasif dan didukung data. |
 | **UAS-3: Inovasi Teknologi** | Guna, Kebaruan, Desain, Dampak | **5.0** | Integrasi Blockchain dan IoT merupakan terobosan inovasi yang relevan untuk agritech masa depan. |
-| **UAS-4: Pengetahuan & Kesimpulan** | Kurasi, Kejelasan, Akurasi, Daya Guna | **4.75** | Arsitektur rantai pasok disusun dengan akurasi teknis yang baik dan referensi yang valid. |
+| **UAS-4: Pengetahuan & Kesimpulan** | Kurasi, Kejelasan, Akurasi, Daya Guna | **5.0** | Arsitektur rantai pasok disusun dengan akurasi teknis yang baik dan referensi yang valid. |
 
 ---
 
