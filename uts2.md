@@ -1,6 +1,7 @@
 # UTS 2 - Songs for You
 
-### 2.1 Puisi Original: Ayah dan Ibu
+### Puisi Original: Ayah dan Ibu
+
 **Ayah dan Ibu**
 
 Di setiap langkah yang kutempuh,
@@ -30,41 +31,25 @@ semoga aku bisa menjadi alasan kalian tersenyum lagi.
 
 ---
 
-### 2.2 Makna Puisi
-Puisi ini merupakan sebuah ungkapan rasa terima kasih dan penghormatan yang mendalam kepada orang tua. Makna utamanya adalah pengakuan atas pengorbanan tanpa pamrih yang diberikan oleh Ayah dan Ibu. Ayah digambarkan sebagai sosok pelindung yang tangguh dalam diam, sementara Ibu digambarkan sebagai sumber ketenangan dan kasih sayang. Puisi ini juga merefleksikan tekad seorang anak untuk membalas budi dengan cara menjadi pribadi yang berhasil dan menjadi sumber kebahagiaan bagi orang tuanya.
+### Makna Puisi
+Puisi ini merupakan refleksi batin yang sangat personal mengenai besarnya peran orang tua dalam perjalanan hidup saya. Makna terdalam dari bait-bait ini adalah pengakuan akan ketulusan yang luar biasa; bagaimana seorang Ayah berjuang dalam diam tanpa mengeluh dan bagaimana seorang Ibu tetap menjadi cahaya penyejuk di tengah kerasnya dunia. Melalui puisi ini, saya ingin menyampaikan bahwa keberhasilan yang saya raih saat ini bukanlah hasil kerja keras saya semata, melainkan fondasi yang dibangun dari setiap tetes keringat dan doa-doa malam orang tua. Ini adalah janji seorang anak untuk selalu pulang ke rumah yang paling tulus, yaitu pelukan mereka, dan tekad untuk membalas segalanya dengan menjadi alasan mereka bangga.
 
 ---
 
-### 2.3 Lagu yang Saya Suka
-**Terbaik Bagimu – Ada Band**
+### Lagu yang Saya Suka: Terbaik Bagimu (Ada Band)
 
-Teringat masa kecilku kau peluk dan kau manja
-Indahnya saat itu buatku melambung
-Disisimu terngiang hangat napas segar harum tubuhmu
-Kau tuturkan segala mimpi-mimpi serta harapanmu
+Lagu ini memiliki kedekatan emosional yang sangat kuat dengan saya karena liriknya yang sangat menyentuh hati. Berikut adalah lirik yang paling berkesan bagi saya:
 
-Kau inginku menjadi yang terbaik bagimu
-Patuhi perintahmu jauhkan godaan
-Yang mungkin ku lakukan dalam waktu ku beranjak dewasa
-Jangan sampai membuatku terbelenggu jatuh dan terinjak
+> "Tuhan tolonglah sampaikan sejuta sayangku untuknya, ku terus berjanji tak kan khianati pintanya. Ayah dengarlah betapa sesungguhnya ku mencintaimu, kan ku buktikan ku mampu penuhi semua maumu."
 
-**Reff:**
-Tuhan tolonglah sampaikan sejuta sayangku untuknya
-Ku terus berjanji tak kan khianati pintanya
-Ayah dengarlah betapa sesungguhnya ku mencintaimu
-Kan ku buktikan ku mampu penuhi semua maumu
-
-Andaikan detik itu kan bergulir kembali
-Ku rindukan suasana basuh jiwaku
-Membahagiakan aku yang haus akan kasih dan sayangmu
-Tuk wujudkan segala sesuatu yang pernah terlewati
-
-**Link Video:** [Tonton di YouTube](https://www.youtube.com/watch?v=M3MY4xV6MBw)
+**Video Musik:**
+[![Terbaik Bagimu](https://img.youtube.com/vi/M3MY4xV6MBw/0.jpg)](https://www.youtube.com/watch?v=M3MY4xV6MBw)
+*(Klik gambar di atas untuk memutar lagu)*
 
 ---
 
-### 2.4 Makna Lagu
-Lagu "Terbaik Bagimu" menceritakan tentang kerinduan seseorang akan kenangan masa kecil bersama sosok Ayah yang penuh kasih sayang. Makna lagu ini terletak pada janji seorang anak untuk senantiasa mengingat nasihat orang tua dan berusaha menjadi versi terbaik dari dirinya sendiri. Lagu ini juga merupakan sebuah doa dan pembuktian bahwa kasih sayang serta harapan yang telah ditanamkan oleh orang tua akan membuahkan hasil berupa keberhasilan dan kebanggaan di masa depan.
+### Makna Lagu
+Lagu "Terbaik Bagimu" bagi saya bukan sekadar hiburan, melainkan sebuah pengingat akan masa kecil yang penuh kasih sayang dan harapan-harapan yang dititipkan orang tua kepada saya. Makna lagu ini terletak pada hubungan antara seorang anak dan ayahnya, di mana ada kerinduan untuk kembali ke masa lalu yang hangat sekaligus tanggung jawab besar untuk menjaga kepercayaan yang diberikan. Liriknya mengajarkan saya tentang kedewasaan—bahwa cara terbaik untuk mencintai orang tua adalah dengan menuruti nasihat baik mereka dan berusaha sekuat tenaga menjadi "yang terbaik" seperti yang mereka impikan. Lagu ini menjadi penyemangat saya di saat lelah, mengingatkan saya bahwa ada senyum Ayah dan Ibu yang harus saya perjuangkan.
 
 ---
 [⬅ Kembali ke Halaman Utama](./index.md)
