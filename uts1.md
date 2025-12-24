@@ -1,6 +1,6 @@
 # UTS 1 - All About Me
 
-![Foto Profil Rifki Fariz Farabi](nama-file-foto.jpg)
+![Foto Profil Rifki Fariz Farabi](701263.jpg)
 
 ### Profil Singkat
 * **Nama Lengkap:** Rifki Fariz Farabi
